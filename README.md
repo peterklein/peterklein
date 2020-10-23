@@ -1,4 +1,4 @@
-![smoke](https://steamuserimages-a.akamaihd.net/ugc/950722873600071557/59D2DB7C1EA8E132D4B55AF6AF2485DE0BD511B8/
+![](https://steamuserimages-a.akamaihd.net/ugc/950722873600071557/59D2DB7C1EA8E132D4B55AF6AF2485DE0BD511B8/
 ### Hi there 👋
 
 Here are some ideas to get you started:
