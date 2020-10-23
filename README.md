@@ -1,4 +1,4 @@
-![](https://ibb.co/tZ3XpwD][img]https://i.ibb.co/7gb4txK/1546518770-orig.gif)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 ### Hi there 👋
 
 Here are some ideas to get you started:
