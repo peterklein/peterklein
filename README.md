@@ -1,4 +1,4 @@
-![](https://ibb.co/tZ3XpwD)
+![](https://i.ibb.co/7gb4txK/1546518770-orig.gif)
 ### Hi there 👋
 
 Here are some ideas to get you started:
