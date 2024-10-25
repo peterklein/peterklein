@@ -3,8 +3,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... vueJS
-- 🌱 I’m currently learning ... Docker
+- 🔭 I’m currently working on ... mostly TYPO3
+- 🌱 I’m currently learning ... Devops
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
